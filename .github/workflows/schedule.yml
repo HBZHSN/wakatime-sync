@@ -11,7 +11,7 @@ jobs:
       - name: Update gist
         uses: superman66/wakatime-sync@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID}}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: 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
+          GIST_ID: 052c5ee0aa63285fe73e2c0be3bb197a
+          WAKATIME_API_KEY: waka_de9eeeb2-8feb-43a6-99f5-95b300de3712
           SCU_KEY: ${{ secrets.SCU_KEY }}
