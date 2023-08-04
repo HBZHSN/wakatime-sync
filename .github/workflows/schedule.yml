@@ -13,5 +13,5 @@ jobs:
         env:
           GH_TOKEN: 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
           GIST_ID: 052c5ee0aa63285fe73e2c0be3bb197a
-          WAKATIME_API_KEY: waka_cb5ddafb-3dbf-4ec8-a745-d28c4e1163f3
+          WAKATIME_API_KEY: bb3f798d-a5bc-4b05-bfbe-5a2950fa29cc
           SCU_KEY: ${{ secrets.SCU_KEY }}
